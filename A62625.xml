@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The spirit of popery tryed, whether it be of God a sermon preached before the King at Whitehall, upon the fifth of November, 1699 / by the Right Reverend Father in God William, Lord Bishop of Oxon.</title>
+            <author>Talbot, William, 1658 or 9-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62625</idno>
+            <idno type="STC">Wing T126</idno>
+            <idno type="STC">ESTC R33894</idno>
+            <idno type="EEBO-CITATION">13599845</idno>
+            <idno type="OCLC">ocm 13599845</idno>
+            <idno type="VID">100735</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100735)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1051:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The spirit of popery tryed, whether it be of God a sermon preached before the King at Whitehall, upon the fifth of November, 1699 / by the Right Reverend Father in God William, Lord Bishop of Oxon.</title>
+                  <author>Talbot, William, 1658 or 9-1730.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Epistles of John, 1st, IV, 1 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100735:1"/>
+            <pb facs="tcp:100735:1" rendition="simple:additions"/>
+            <p>THE SPIRIT of POPERY TRYED, Whether it be of GOD.</p>
+            <p>A SERMON Preached before the KING at WHITEHALL, upon the Fifth of <hi>November,</hi> 1699.</p>
+            <p>By the Right Reverend Father in God <hi>WILLIAM,</hi> Lord Biſhop of <hi>OXON.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by His Majeſty's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Bennet,</hi> at the <hi>Half-Moon</hi> in St. <hi>Paul</hi>'s Church-yard, 1699.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:100735:2"/>
+            <head>ERRATA.</head>
+            <p>PAge 7. <hi>del.</hi> the firſt Line, and to the word <hi>Faith</hi> in the 2d Line. p. 8. l. 17. for <hi>Burnings,</hi> r. <hi>Fumings.</hi> l. 26. for <hi>Zeal,</hi> r. <hi>real.</hi> p. 14. l. 28. after <hi>enjoy'd,</hi> add <hi>who ſuffered.</hi> p. 17. l. 3. r. <hi>Campanella's.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100735:2"/>
+            <head>THE <hi>Spirit of Popery tryed,</hi> Whether it be of GOD.</head>
+            <epigraph>
+               <bibl>
+                  <hi>1 John iv. 1.</hi>
+               </bibl>
+               <q>Beloved, believe not every Spirit, but try the Spirits whether they be of God.</q>
+            </epigraph>
+            <p>THat by this Caution, <hi>Believe not every Spirit, but try the Spirits whether they be of God,</hi> is meant, give not up your Faith to the Doctrine, nor your ſelves to the Conduct of every Teacher and Guide, that ſhall pre<g ref="char:EOLhyphen"/>tend to inſtruct and govern you, till you have examined and proved, whether his Commiſſion and Doctrine be of God, is evident from the Reaſon wherewith the Apoſtle in<g ref="char:EOLhyphen"/>forces this Advice, in the latter part of the Verſe, <hi>viz. becauſe many falſe Prophets are gone out into the World.</hi> And truly if this Reaſon could juſtify the pertinency and uſefulneſs of our Apoſtle's Exhortation at that time, the preſſing of the ſame Advice will appear, upon the ſame Grounds, to be no leſs ſeaſonable and neceſſary in this Age, wherein the great Author of Lies and Diviſions has ſhewed himſelf
+<pb n="2" facs="tcp:100735:3"/>ſuch a Maſter in his Art, ſo ſucceſsfully imploy'd all his Stratagems and Inſtruments to corrupt the Faith, and break the Unity of the Church; that not only ancient Hereſies are revived and improved, but new ones broach'd, and the ſeamleſs Coat of Chriſt torn into ſo many Shreds, his myſtical Body broken into ſo many Sects and Parties, that it is almoſt as eaſy to reconcile, as to number them: And each of the different Parties (all of which cannot be in the right) would engroſs Truth to themſelves, confine it to their own Diviſion, and exclude thoſe that differ from them from any title to it.</p>
+            <p>It might be of good uſe to bring theſe ſeveral Preten<g ref="char:EOLhyphen"/>ders to the Teſt laid down in the Text, to <hi>try the Spirits whether they be of God:</hi> But to examine them all, would be the Work not of a piece of an Hour, but of a whole Year. The Time uſually allotted for ſuch Exerciſes as this, will not allow me to try more than one of them; and the Day points out which I ſhould pitch on. That bold Monopo<g ref="char:EOLhyphen"/>lizer of Chriſtianity, which unchriſtians all the World be<g ref="char:EOLhyphen"/>ſides her own Communion; anathematizes, excludes from Heaven, and damns to Hell, all that will not renounce their Reaſon and Senſes, and blindly ſubmit to her Uſurpation; who ſticks at no Methods for the ex<g ref="char:EOLhyphen"/>tending of her Tyranny, whether of Fraud and Treachery, or Violence and Cruelty: Witneſs that fatal Deſign, (fatal in the Event to the Authors of it, but intended ſo to this Church and Nation,) which was as on this Day to have been put in execution, the never to be forgotten Powder-Plot: A Plot, which, ſay ſome of the Soberer of their own Authors, Poſterity will not believe for the Horrour of it. Horrour indeed! if there muſt have been ſo many Thou<g ref="char:EOLhyphen"/>ſand of Men, Women and Children, as one of them ſays it was computed, cut off at one Blow, had it taken ef<g ref="char:EOLhyphen"/>fect. A Plot ſurely hatch'd in Hell, that Lake of Sulphur,
+<pb n="3" facs="tcp:100735:3"/>and form'd in the dark Parts of the Earth, and diſcover'd by him only to whom <hi>the darkneſs is no darkneſs,</hi> and whoſe <hi>hand can find out thoſe that dig down into Hell.</hi> And ſo much (though <hi>Faux</hi> when he was taken, cry'd out, that the De<g ref="char:EOLhyphen"/>vil, and not God, was the Diſcoverer) is own'd by ſome of their own Party, who have acknowledged the Diſcovery to have been from God.</p>
+            <p>To expreſs our grateful Sentiments of which miraculous Deliverance, as alſo of another from the Deſigns of the ſame Enemies which we have more lately received on the ſame day, and to pay our Juſt Tribute of Thanks and Praiſe to the Great God for them, is the end of our preſent Meeting, to which, I hope, I ſhall do Juſtice; and that my Diſcourſe ſhall not labour of Impertinence, or Unſuitableneſs to the Text or Day, if inſtead of relating the Story, (of which, after ſo many Annual Returns of this Day, no one can be ſuppoſed to be ignorant or forgetful) or proving the Truth of the Facts, which is as unneceſſary, <hi>habemus confitentes reos,</hi> I rather chuſe to bring that Religion, which by theſe, and other ſuch ever to be abhorr'd Methods, they reſtleſly labour to propagate, to the Trial, adviſed to in the Words I have read.</p>
+            <p>And if, upon Examination, it appears to be not of God; as,</p>
+            <p n="1">I. Impoſing Doctrines and Practices, that derogate from, and undermine the Great and Fundamental Article of the Chriſtian Religion.</p>
+            <p n="2">II. As being in a great meaſure contrary to the Nature and Deſign of the Chriſtian Religion.</p>
+            <p n="3">III. As having bid very fair for the weakening thoſe Grounds and Motives of Credibility, whereby the Divinity of the Chriſtian Religion was aſſerted, and it recommen<g ref="char:EOLhyphen"/>ded to the World. And,</p>
+            <p n="4">
+               <pb n="4" facs="tcp:100735:4"/>IV. As ſupporting and ſpreading it ſelf by Methods di<g ref="char:EOLhyphen"/>rectly oppoſite to thoſe by which the Chriſtian Religion was propagated, and even to the Dictates of Morality and Nature.</p>
+            <p>I ſuppoſe I may, with good reaſon, endeavour in my Application to excite in you,</p>
+            <p n="1">1. A due Averſion to, and juſt Abhorrence of, that Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p n="2">2. Gratitude to God, who has ſo often diſcovered and defeated the Deſigns of our Adverſaries, and rendred their Attempts for the introducing and eſtabliſhing that Religion among us hitherto inſucceſsful. And,</p>
+            <p n="3">3. A willingneſs and readineſs to comply with thoſe means which may moſt effectually ſecure us againſt them for the future.</p>
+            <p>I am then to try the Religion taught and profeſſed in the Church of <hi>Rome,</hi> whether it be of God; and it will appear not to be ſo, for theſe Reaſons.</p>
+            <p n="1">1. Becauſe it impoſes Doctrines and Practices, that dero<g ref="char:EOLhyphen"/>gate from, and undermine the great Fundamental Article of the Chriſtian Religion; which is this, <hi>that Jeſus is the Chriſt.</hi> This our Apoſtle does in ſeveral Places of his Wri<g ref="char:EOLhyphen"/>tings make the diſtinguiſhing mark to try the Spirits by, by confeſſing of which they would appear to be of God, and by denying it of Antichriſt. <hi>Whoſoever believeth that Jeſus is the Chriſt, is born of God,</hi> cap. 5. v. 1. But cap. 2. v. 22. <hi>Who is a Liar, but he that denieth that Jeſus is the Chriſt? He is Antichriſt denying the Father and the Son.</hi> And in the Verſes immediately following my Text: <hi>Hereby know we the Spirit of God: Every Spirit that confeſſes Jeſus that is come in the Fleſh to be the Chriſt, is of God. And every Spirit
+<pb n="5" facs="tcp:100735:4"/>that confeſſes not Jeſus that is come in the Fleſh, to be the Chriſt, is not of God, but is that Spirit of Antichriſt.</hi>
+            </p>
+            <p>So I conſtrue that Propoſition, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, making the Predicate to refer to his Offices as the <hi>Meſſias,</hi> and not to his Incarnation, which is ſuppoſed in the Subject. And this Interpretation is not only agreeable to the Origi<g ref="char:EOLhyphen"/>nal, but to many parallel Places, where St. <hi>John</hi> expreſly makes the Predicate <hi>the Chriſt,</hi> and to the general Senſe of Commentators upon this Place.</p>
+            <p>Now it's known that <hi>Chriſt</hi> ſignifies Anointed, and that Jeſus is ſo called with relation to his Offices.</p>
+            <p>The Ceremony of Anointing with material Oil has been anciently very uſual in the deſignation of Perſons to the Offices of Prophet, Prieſt, and King. And our Lord Jeſus being to take upon him thoſe three great Offices: (For <hi>Moſes</hi> foretold of him, <hi>A Prophet ſhall the Lord your God raiſe up,</hi> Deut. 18.16. And the Pſalmiſt, <hi>Thou art a Prieſt for ever after the Order of Melchizedek,</hi> Bſal. 110.4. <hi>I have ſet my King upon my Holy Hill of Sion,</hi> Pſal. 2.6. He being to execute thoſe Offices, was <hi>Anointed</hi> thereto <hi>with the Holy Ghoſt, and with Power;</hi> and, for that reaſon, is called <hi>The Chriſt:</hi> Or, The Anointed.</p>
+            <p>By virtue of his firſt, his Prophetical Office, he was to reveal to us, and inſtruct us in the whole Will of his Fa<g ref="char:EOLhyphen"/>ther; ſo <hi>Moſes</hi> predicted of him, in the forecited Place, <hi>he ſhall be like unto me, and him ſhall ye hear in all things.</hi> And we read in <hi>Heb.</hi> 3.2. <hi>that he was faithful as Moſes was, faith<g ref="char:EOLhyphen"/>ful in all his Houſe.</hi> And he himſelf tells his Father, <hi>Joh.</hi> 17. that <hi>he had finiſhed the Work he gave him to do, had mani<g ref="char:EOLhyphen"/>feſted his Name to Men,</hi> 4, and 6, and in the 8th Verſe; <hi>the Words which thou gaveſt me, I have given them, and they have received them.</hi>
+            </p>
+            <p>By virtue of his ſecond, his Prieſtly Office, he was to offer Sacrifice, and intercede for us: The former of which he
+<pb n="6" facs="tcp:100735:5"/>did upon the Croſs; when as the Apoſtle in <hi>Heb.</hi> 9.14. ſays, <hi>he offered himſelf through the Eternal Spirit without ſpot to God:</hi> And that Offering he tells us was to be but once made, in ſeveral places of that and the following Chapter, and gives Reaſons for it; Firſt, becauſe it could not be oftner made; for <hi>then he muſt often have ſuffered, Chap.</hi> 9.26. And, ſecondly, becauſe it was needleſs to be repeated; for he had by <hi>that one Offering perfected for ever them that were ſanctified, Chap.</hi> 10.14.</p>
+            <p>As to the other part of his Prieſtly Office, that of inter<g ref="char:EOLhyphen"/>ceeding for us, the ſame holy Pen-man tells us, <hi>Chap.</hi> 7.25. <hi>that he ever lives to make Interceſſion for us.</hi> And <hi>Rom.</hi> 8.24. <hi>Chriſt is at the right hand of God, and maketh Interceſſion for us;</hi> and <hi>there is but one Mediator between God and Man, the Man Chriſt Jeſus,</hi> 1 <hi>Tim.</hi> 2.5.</p>
+            <p>By virtue of his third, his Kingly Office, he was to rule and govern his Church as Head thereof, to preſcribe and give Laws to her: So St. <hi>Paul, Eph.</hi> 5.23, 24. <hi>Chriſt is the Head of the Church, and the Church is ſubject unto Chriſt.</hi> And <hi>Col.</hi> 1.18. <hi>He is the head of the Body the Church, that in all things he might have the pre-eminence.</hi> And St. <hi>James</hi> tells us, in his fourth Chapter, <hi>that he is that one Law-giver who is able to ſave and to deſtroy.</hi>
+            </p>
+            <p>We have now ſeen why <hi>Jeſus</hi> is called the Chriſt, or the Anointed, and what he does in virtue of thoſe Offices he was anointed to. Let us than examine how the Doctrines and Practices, impoſed by the Church of <hi>Rome,</hi> comport with this Account which the Scriptures give of Chriſt and his Offices.</p>
+            <p>And here it is obvious, at the firſt View, that his firſt, his Prophetical Office, by which he was to reveal to us the whole Will of God is ſtruck at by thoſe Doctrines of theirs, which aſſert that the Holy Scriptures in which he has diſ<g ref="char:EOLhyphen"/>covered that Will, are not a perfect Rule of Faith; that
+<pb n="7" facs="tcp:100735:5" rendition="simple:additions"/>the Holy Scriptures in which he has diſcovered that Will, are not a perfect Rule of Faith; that the ſenſe of them is not clear and perſpicuous, but dark and uncertain; that they are like a Noſe of Wax, or leaden Rule, liable to be turn'd and bent any way, and therefore are to be pieced out with the addition of Traditions, and not to be read or received without the Expoſitions of the Church; for what kind of a Prophet or Teacher is that, who hath neither re<g ref="char:EOLhyphen"/>veal'd to us all that it was neceſſary for us to know, nor clearly explain'd what he has reveal'd?</p>
+            <p>And as to his ſecond, his Prieſtly Office, by which he was to ſacrifice and interceed for us, how is that affronted by their frequent Sacrifices of the Maſs, which they aſſert to be true, proper, propitiatory Sacrifices for the ſins and wants of the Dead, and of the Living; and by thoſe multitudes of Interceſſors, the Virgin <hi>Mary,</hi> and other Saints, whom they join with, or, as one would be tempted by their Practice to judge, preferr before him? Which muſt neceſſarily argue that he has neither fully ſatisfied, nor does effectually inter<g ref="char:EOLhyphen"/>cede for us; for if he had compleatly ſatisfied, or did ſuffici<g ref="char:EOLhyphen"/>ently intercede, what need of other Sacrifices, or other In<g ref="char:EOLhyphen"/>terceſſors, to be added to him? but if he has not fully ſatis<g ref="char:EOLhyphen"/>fied, nor does effectually intercede, what ſort of a Prieſt or Mediator will they make of him?</p>
+            <p>Touching his third, his Kingly Office, by which he was to rule his Church, as Head thereof, and to give Laws to her: We know who he is that aſſumes to himſelf the Title of Head of his Church, and who they are that have pretended to a Power of diſpenſing with his Laws, their own Coun<g ref="char:EOLhyphen"/>cil of <hi>Conſtance</hi> will inform us; which tho' it freely confeſſes that our Saviour and King inſtituted the Sacrament in both kinds, has yet, with a <hi>non obſtante</hi> to the Inſtitution, decla<g ref="char:EOLhyphen"/>red it ſhould be given to the Laity but in one. And then ſince they have in all theſe Inſtances given too plain proof
+<pb n="8" facs="tcp:100735:6" rendition="simple:additions"/>that they believe our Lord Jeſus has not ſufficiently diſ<g ref="char:EOLhyphen"/>charged thoſe Offices which belong to the Chriſt, they muſt not blame me, but St. <hi>John,</hi> if I conclude that their Spirits, their Religion, is not of God; for it is his Aſſertion, <hi>that e<g ref="char:EOLhyphen"/>very Spirit that confeſſes not that Jeſus is the Chriſt, is not of God.</hi>
+            </p>
+            <p n="2">2. The Religion taught and profeſs'd in the Church of <hi>Rome</hi> is in a great meaſure contrary to the Nature and De<g ref="char:EOLhyphen"/>ſign of the Chriſtian Religion. As for the Nature of the Chriſtian Religion, it was manly, ſpiritual, plain, not made up of thoſe <hi>Rudiments</hi> and <hi>beggarly Elements,</hi> by which as by a School-Maſter the Jew, being but a Child, was to be tu<g ref="char:EOLhyphen"/>tor'd and led to Chriſt; not clothed with that multitude of outward Obſervances, nor adorn'd with that gaudy Page<g ref="char:EOLhyphen"/>antry and Shew, with which the Moſaical Diſpenſation was. But now let any one look into the Church of <hi>Rome,</hi> view <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ultiplicity of Ceremonies and Shadows, the variety of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, their frequent Croſſes, Burnings, Sprinklings, <hi>&amp;c.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord, how their Religion is almoſt wholly made of onew and Pageantry; and let him tell me whether the out<g ref="char:EOLhyphen"/>ward Circumſtances have not eaten up the inward Sub<g ref="char:EOLhyphen"/>ſtance, and whether the Complaint may not juſtly be ap<g ref="char:EOLhyphen"/>ply'd to them, that the Yoke of Jewiſh Ceremonies was more tolerable than theirs?</p>
+            <p>And then for the Deſign of the Chriſtian Religion, which was to advance Vertue and Piety, to make Men truly good, and to lead them to Happineſs by the Paths of Zeal and ſincere Holineſs; how well the tendency of that Religion anſwers thoſe ends, we need look no farther to be informed, than into their Doctrines of Penance, Indulgences, Purgatory, <hi>&amp;c.</hi> which muſt neceſſarily encourage Men to be wicked? For why ſhould a Man fear to indulge himſelf in all manner of ſinful Enjoyments, when he has no more to do to obtain an Abſolution, than to confeſs himſelf to a Prieſt, and be ſorry that he has expoſed himſelf to Sufferings? At worſt, it is but
+<pb n="9" facs="tcp:100735:6"/>giving ſome of his Money for his Tranſgreſſion, and ſome of the Product of his Eſtate for the Sin of his Soul; and why ſhould a Man doubt to defer his Repentance and Amend<g ref="char:EOLhyphen"/>ment in preſent, as long as he has hopes of an after-Game in Purgatory? And then let any judge whether a Religion that abounds with ſuch ungodly Doctrines, can be of God, can lay any claim to that Character which St. <hi>Paul</hi> gives the Chriſtian Religion in his firſt Epiſtle to the <hi>Theſſalonians,</hi> where he calls it a <hi>Myſtery of Godlineſs,</hi> and whether it has not a juſter Title to that other which he gives the corrupt Doctrines of <hi>Antichriſt,</hi> in his ſecond Epiſtle to the <hi>Theſſalo<g ref="char:EOLhyphen"/>nians,</hi> where he terms them <hi>a Myſtery of Iniquity.</hi>
+            </p>
+            <p n="3">3. The Church of <hi>Rome</hi> has bid very fair for the weak'ning thoſe grounds or motives of Credibility, by which the Chri<g ref="char:EOLhyphen"/>ſtian Religion was atteſted and recommended to the World. The chief of thoſe grounds or motives of Credibility, were the Miracles which Chriſt and his Apoſtles wrought; by theſe he was as St. <hi>Peter</hi> ſpeaks, <hi>Acts</hi> 2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, pointed out, declared by God to be the Chriſt, they were the Credentials he brought from Heaven. This is plain from his own frequent urging of them to beget Faith in his Hearers, <hi>Believe me for the Works ſake;</hi> and <hi>I have grea<g ref="char:EOLhyphen"/>ter Teſtimony than that of John, the Works I do, bear witneſs of me;</hi> from the Effects they had upon many that became his Converts, who <hi>ſeeing the Works that Jeſus did, believed on him;</hi> and from the Teſtimony of his very Enemies, who when they ſaw how his Miracles wrought upon the People, cried, if <hi>we let him alone,</hi> do not ſomething to hinder or diſ<g ref="char:EOLhyphen"/>credit theſe Works of his, <hi>all Men will believe on him;</hi> and therefore they endeavour'd to poſſeſs the People, that he did them by the <hi>aſſistance of Beelzebub the Prince of Devils:</hi> So that it is clear the Miracles which Chriſt wrought, were a main Me<g ref="char:EOLhyphen"/>thod which he uſed to affert the Truth and Divinity of his Doctrine, and gain Proſelytes to his Religion.</p>
+            <pb n="10" facs="tcp:100735:7"/>
+            <p>And 'tis no leſs clear, that nothing can tend more to blaſt the Reputation, or weaken the Authority of theſe Mira<g ref="char:EOLhyphen"/>cles, than a Society of Chriſtians receiving with theſe multi<g ref="char:EOLhyphen"/>tudes of other Miracles, which are falſe, or at beſt, ſuſpected.</p>
+            <p>Now to make good the Fact in this Charge againſt the Church of <hi>Rome,</hi> I appeal not only to thoſe little <hi>piae Fraudes,</hi> which if we will believe Eye-witneſſes, are to this time made uſe of to amuſe the Ignorant, and impoſe upon the Credulous; but to thoſe ſtrange Miracles which have been ſeriouſly urged to eſtabliſh or juſtifie ſome of their Doctrines and Worſhip, as Purgatory, Invocation of Saints, Worſhip of Images, and Relicts, <hi>&amp;c.</hi> and ſolemnly own'd in their Pub<g ref="char:EOLhyphen"/>lick Service; few of which are ſo atteſted as to gain Credit from any unbiaſs'd and thinking Man, and of ſome they themſelves have been aſhamed: 'Tis eaſie to ſee what Ad<g ref="char:EOLhyphen"/>vantage the <hi>Romaniſt</hi> has hereby given the <hi>Deiſt,</hi> what an Argument <hi>ad hominem</hi> he has furniſhed him with. Indeed a <hi>Proteſtant</hi> may fairly and truly reply to it, that there is no juſt arguing from the Falſhood of theſe <hi>Romiſh</hi> Miracles a<g ref="char:EOLhyphen"/>gainſt the Truth of the Chriſtian, as I could eaſily ſhew had I time, and were it my preſent huſineſs; but here is too plain and plauſible a <hi>Pretence</hi> given to the Enemies of our Holy Religion, to be over look'd or neglected by them: And however we may in Charity believe that Church did not deſign, it may be foreſee the Conſequences of ſuch a Con<g ref="char:EOLhyphen"/>duct; yet ſince ſhe has eventally contributed to the weak<g ref="char:EOLhyphen"/>ning of the Force of the Chriſtian Miracles, and that by pretending falſe ones of her own, ſhe has come too near to another Character of Antichriſt, whoſe coming was foretold to be, after the <hi>working of Satan, with all Power, and Signs, and lying Wonders.</hi>
+            </p>
+            <p n="4">4. Laſtly, The Religion of the Church of <hi>Rome</hi> is ſuppor<g ref="char:EOLhyphen"/>ted and ſpread by the methods quite oppoſite to thoſe by which the Chriſtian Religion was propagated, and the di<g ref="char:EOLhyphen"/>ctates
+<pb n="11" facs="tcp:100735:7"/>of Morality and Nature. The Methods by which the Chriſtian Religion was propagated were, like the Au<g ref="char:EOLhyphen"/>thor of it, meek and gentle, charitable and loving: The firſt Planters of it water'd it with no other Blood but their own: The Goſpel had no conſuming Heats, but kindly cheriſhing Warmths; the Preachers of it did not make Converts with Sword and Piſtol, but by concluſive Argu<g ref="char:EOLhyphen"/>ments, and moving Perſwaſions; they did not enlighten Mens Underſtandings with Fire and Fagot, but with bright and evident Reaſon. Our Lord ſeverely rebuked thoſe Diſciples, who, out of zeal to their Maſter, whom the <hi>Samaritans</hi> would not receive, would after the Example of <hi>Elijah</hi> have <hi>called for Fire from Heaven upon them,</hi> with <hi>ye know not what Spirit ye are of;</hi> not of mine, not of the Goſpel Temper. What Spirits then are they of, that fetch Fire not from Heaven but Hell, to deſtroy not <hi>Samaritans</hi> but Chri<g ref="char:EOLhyphen"/>ſtians; and that not for refuſing to receive Chriſt, but his aſpiring Adverſary, that is rivalling and juſtling him out of his Throne; who, being of a much more furious Spirit than <hi>Elijah,</hi> would have ſent the King, Lords, and whole repreſentative Body of this Nation, as he went in a fiery Chariot, but not to Heaven, but as they muſt believe of them being Hereticks, to Hell; who, for the propagation of their Religion, can put a Corban upon the moſt ſacred Duties Men owe to their ſeveral Relations, diſturb Socie<g ref="char:EOLhyphen"/>ties, unhinge Governments, ruin Families and Kingdoms, form helliſh Plots, ſet up mercileſs Inquiſitions, encourage bloody Maſſacres, make Converts by Plunders, Rapes, Pri<g ref="char:EOLhyphen"/>ſons, Galleys, Gibbets, and unheard of Torments, to which Death would be preferable. Bleſſed Jeſu! thou meek, gentle Lamb of God! thou that <hi>didſt never ſtrive nor cry,</hi> but wert all Love and Compaſſion even to thy very Ene<g ref="char:EOLhyphen"/>mies, doſt thou own theſe Proceedings, or theſe wretched Murtherers of thy Saints and Servants, who have ſo dipped
+<pb n="12" facs="tcp:100735:8"/>thy Coat in the Blood, not of wild Beaſts, but thy dear Martyrs, that it can ſcarcely be known to be <hi>Joſeph</hi>'s Coat? No, ſure<g ref="char:EOLhyphen"/>ly, they have a nearer Relation to the Woman deſcribed in the 17th. of <hi>Revel.</hi> who was <hi>arrayed in Purple and Scarlet colour,</hi> whoſe Garments were tinged with the Gore, and who was <hi>drunk with the Blood of the Saints, and with the Blood of the Martyrs of Jeſus.</hi>
+            </p>
+            <p>But it is time to divert from this ungrateful, though ne<g ref="char:EOLhyphen"/>ceſſary Task, to take my leave of theſe Perſons, and apply my ſelf to you. From the Particulars which I have very briefly toucht upon, time not permitting me to enlarge, it does but too plainly appear, that the Religion of the Church of <hi>Rome</hi> cannot bear the Tryal of the Text, that it is not of God.</p>
+            <p>By way of Inference then.</p>
+            <p n="1">1. What a juſt Averſion ſhould this give us to it, and at what a Diſtance ſhould it keep us from it? Can we, without Reſentment, behold that Church, with bold and daring Doctrines, affronting our Bleſſed <hi>Meſſias,</hi> and reflect<g ref="char:EOLhyphen"/>ing upon him, as not having made good that Character, by ſufficiently diſcharging the Offices belonging to it, as we obſerved in the firſt particular?</p>
+            <p>Can we, without Reſentment, behold her changing the Subſtance of the Religion he taught into Shadows, and contradicting the Deſigns of it, expoſingt he holy Author of it, as if he were a Saviour, to ſave Men in and not from their Sins, by giving Men too great encouragement to indulge themſelves in all looſe Converſation, as we obſerved in the ſecond particular?</p>
+            <p>Can we, without Reſentment, behold her ſhaking the Grounds upon which he aſſerted the Divinity of it, and furniſhing the Enemies of it with Arguments againſt it, as we obſerved in the third particular?</p>
+            <pb n="13" facs="tcp:100735:8"/>
+            <p>Can we, without Reſentment, behold her Perſecuting, Baniſhing, Tormenting, Killing our Brethren, as in the fourth particular?</p>
+            <p>How long, Lord, holy and true, doſt not thou avenge the Blood of thy Saints?</p>
+            <p>But let not our Reſentments carry us to take any Re<g ref="char:EOLhyphen"/>venge our ſelves, to any of thoſe Practices which we ſo juſtly condemn in them: God forbid that any of their Pro<g ref="char:EOLhyphen"/>vocations, even their late baſe and notorious Miſrepreſen<g ref="char:EOLhyphen"/>tations of their Treatment in Proteſtant Countries, ſhould ever prevail with us to change our Chriſtian Conduct to<g ref="char:EOLhyphen"/>wards them; or that any of them ſhould ſuffer in Perſon or Eſtate meerly upon the account of their Religion.</p>
+            <p>No; may we rather be in the State of our Suffering Bre<g ref="char:EOLhyphen"/>thren, than in the Condition of their Perſecutors; we are aſſured, that <hi>Bleſſed are they that are perſecuted for Righteouſ<g ref="char:EOLhyphen"/>neſs ſake,</hi> but read of no bleſſing for thoſe that perſecute.</p>
+            <p>Let us <hi>overcome their evil with good,</hi> and as we have op<g ref="char:EOLhyphen"/>portunity return to thoſe of that Religion all kind and Chriſtian Offices, for their Perſecutions and deſpiteful Uſage of thoſe of ours; and for their Anathema's and Curſes, Bleſſings and Prayers to our merciful God, That he would <hi>bring into the way of truth all ſuch as have erred and are de<g ref="char:EOLhyphen"/>ceived;</hi> That to thoſe of them that ſee not the Errors and Dangers they are in, he would vouchſafe Light to diſcover them to them; and to thoſe that are ſenſible of them, the Honeſty and Courage to acknowledge their Conviction, and come out of that Communion.</p>
+            <p>Yet ſure it is no breach of Charity to be upon the defen<g ref="char:EOLhyphen"/>ſive, to guard our ſelves againſt their Attempts; for the Civil Power to check the Boldneſs of their numerous Prieſts in this Town, and reſtrain them from that Liberty they take to invade in many Inſtances our Miniſters Office; and on all Occaſions to attempt the perverting of their People, or
+<pb n="14" facs="tcp:100735:9" rendition="simple:additions"/>for us, who miniſter in holy Things, to arm our Hearers againſt their Seduction.</p>
+            <p>And no other Weapon do we deſire, or need we to put into their hands, than <hi>the Sword of the Spirit, which is the Word of God,</hi> which, if rightly applied, will make them proof againſt all their Aſſaults; for ſince by that Word it appears, that their Religion is not of God, what Methods of allurement or terror can be of force to draw or drive thoſe to it, who make that Word their Rule?</p>
+            <p>What Allurement can be preſented, that that Queſtion of our Saviour, <hi>Matt.</hi> 11.26. will not anſwer, <hi>What ſhall a Man be profited if he ſhall gain the whole World, and loſe his own Soul?</hi>
+            </p>
+            <p>What Terrors and Affrightments can be offer'd that his Promiſe in the 19th. of this Goſpel, ver. 29. will not ſup<g ref="char:EOLhyphen"/>port Man under; <hi>Every one that hath forſaken Houſes, or Brethren, or Siſters, or Father, or Mother, or Wife, or Children, or Lands, for my Name's ſake, ſhall receive an hundred-fold, and inherit everlaſting life?</hi>
+            </p>
+            <p>I ſhall conclude this Head with the Words of a <hi>Romiſh</hi> Writer in the late Reign; which, though uſed by him in ri<g ref="char:EOLhyphen"/>dicule, ſhall be applied by me in very good earneſt; <hi>That the Martyrs recorded by</hi> Fox, <hi>that paſt the fiery Tryal in Q.</hi> Mary<hi>'s Days,</hi> and I will add all others that ſhall ſuffer the like upon the ſame Account, <hi>had,</hi> and ſhall have, <hi>a glorious Cauſe on't; and I doubt not,</hi> as he continues, <hi>but the Crowns of Glory which attend ſuch in Heaven, are not inferior to thoſe which they enjoy'd under</hi> Decius <hi>and</hi> Diocleſian.</p>
+            <p n="2">2. What Obligations of gratitude do we lye under to our moſt gracious God, for not only raiſing up our holy Re<g ref="char:EOLhyphen"/>formers, who caſt off that inſupportable <hi>Yoke, which neither they nor their Fathers were able to bear,</hi> reſcued this Church from the tyranny of the Biſhop of <hi>Rome,</hi> and purged it from the Idolatry and Superſtition of that Church; but has alſo
+<pb n="15" facs="tcp:100735:9"/>preſerved it hitherto from being again corrupted and brought into Bondage, has defended the <hi>Houſe ſwept and garniſhed,</hi> notwithſtanding all his Atempts, from the <hi>return of the evil Spirit.</hi>
+            </p>
+            <p>Whoever reflects upon the Strength and Riches of the Church of <hi>Rome,</hi> the Number of her Members, her Intereſt with, or rather Authority over too many of the Princes of Chriſtendom, whom ſhe has made drunk with the Wine of her Fornication, and bewitcht with her Philters, to lay their Heads in her Lap, and give up their Power to her.</p>
+            <p>How her Principles will give her leave to do any Evil, that ſo great a Good may come of it, as extending her Ty<g ref="char:EOLhyphen"/>ranny, and bringing heretical Nations into ſubjection to her.</p>
+            <p>How ſhe truly looks upon this Church to be the greateſt Obſtacle in her way, that hinders her extirpating the <hi>Nor<g ref="char:EOLhyphen"/>thern Hereſy.</hi>
+            </p>
+            <p>How often, being thus provided with Power and Prin<g ref="char:EOLhyphen"/>ciple, and ſtrong Inclination to deſtroy this Church, ſhe has attempted it every Reign ſince the Reformation.</p>
+            <p>Whoever reflects upon all this, and adds, that we have not always been ſo ſtrictly upon our Guard againſt her as we ought to have been; but have always had a treacherous Party within us, ready to betray us to her, muſt acknow<g ref="char:EOLhyphen"/>it to be <hi>Of the Lord's mercy that we have not been long ſince conſumed by them;</hi> and that, <hi>If the Lord himſelf had not been on our ſide, when Men conſpired and roſe up againſt us, they had ſwallowed us up quick when they were ſo wrathfully diſpleaſed at us:</hi> And how ought we then to add, <hi>Praiſed be the Lord, who has not given us over as a Prey unto their Teeth.</hi>
+            </p>
+            <p>How ſhould we ſay of this Day in particular, That <hi>this is the Day which the Lord hath made, we will rejoice and be glad in it:</hi> How memorable ought is to be to us, as I hope it will be to our lateſt Poſterity, on which God has twice
+<pb n="16" facs="tcp:100735:10"/>appeared ſo wonderfully for us; once in the timely and ſtrange Diſcovery of the Powder Plot in King <hi>James</hi> the Firſt's Time; and again, in that great Deliverance from the no leſs dangerous Deſigns of the ſame Enemies in the Reign of King <hi>James</hi> the Second, which I muſt date from this Day, on which the happy Inſtrument of it Landed in this Kingdom; of which Deliverance I would not deſire to raiſe any one's grateful Senſe higher, than in proportion to thoſe Apprehenſions of our danger; which however ſome are willing to forget now, every thinking Man had then.</p>
+            <p>Adored be the Majeſty of Heaven, who has ſo often commanded Deliverance for us, blaſted the Deſigns and Attempts of our Enemies, that had <hi>evil will to our Sion,</hi> and not yet ſuffered them <hi>to devour Jacob, or lay waſte his dwelling place.</hi>
+            </p>
+            <p n="3">3. How ready and willing ſhould we be to comply with, and purſue theſe Methods, which will effectually ſecure us againſt their Attempts for the future? There is a re<g ref="char:EOLhyphen"/>markable Prophecy in the Mſſ. of a great Antiquary of our own, That <hi>Popery ſhould decay about the Year</hi> 1500, <hi>and be re<g ref="char:EOLhyphen"/>ſtored about</hi> 1700, <hi>and that moſt likely by means of our Divi<g ref="char:EOLhyphen"/>ſions, which threaten the Reformation,</hi> &amp;c.</p>
+            <p>What credit ſoever this Prediction may deſerve, as to the Thing it foretells, the Reſtitution of Popery, and the Time it prefixes for it, yet the Methods by which it ſays it will moſt likely be brought about, are ſo reaſonable and probable, That, I think, without pretending to the Spirit of Prophecy, a Man may venture to ſay, that if ever Po<g ref="char:EOLhyphen"/>pery (humanly ſpeaking) comes in upon us, it muſt be at thoſe Breaches which we our ſelves make.</p>
+            <p>'Tis known who they are that firſt cauſed, and are ſtill ſomenting our unhappy Diviſions; and ſure we have been
+<pb n="17" facs="tcp:100735:10"/>long enough Tools in their Hands, for the working their Ends, and our own Ruin.</p>
+            <p>Whoever looks into <hi>Campanella<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s Treatiſe of the <hi>Spaniſh</hi> Monarchy, the Scheme he has there drawn, for the ſubject<g ref="char:EOLhyphen"/>ing of this Nation and Church to the Power of <hi>Spain,</hi> and Tyranny of <hi>Rome,</hi> will find that the Method he propoſes are the embroiling of <hi>Scotland,</hi> the dividing of <hi>England,</hi> and the inſtigating the Biſhops and Calviniſts, as he calls them, againſt one another; and whoever compares this Project with the Practices of <hi>Rome,</hi> in relation to us, which our Chronicles or Memories may inform us of, will be ſa<g ref="char:EOLhyphen"/>tisfied that the latter have been an exact Comment upon the former.</p>
+            <p>But this Maxim, <hi>Divide &amp; Impera,</hi> they might have lear<g ref="char:EOLhyphen"/>ned from the old <hi>Romans;</hi> would to God we could learn from them one Principle too, which Nature taught them, and Revelation has more forcibly recommended to us, that of a publick Spirit, and a hearty Concern for the publick Welfare, which would beat down and triumph over all little private Intereſts, and private Piques, and diſpoſe and engage us to that Peace and Union, both Civil and Eccle<g ref="char:EOLhyphen"/>ſiaſtical, which would be under God our ſecureſt Guard againſt all the Deſigns and Attacks of our Enemies.</p>
+            <p>As to the former; would we lay aſide our Paſſions for a while, and ſuffer our cooler Reaſon to adviſe, it would tell us, That <hi>a Kingdom divided againſt it ſelf is brought to deſolation,</hi> that every particular muſt ſuffer in the publick Deſtruction.</p>
+            <p>That in our Caſe 'tis evident to a Domonſtration, That if ever our Enemies prevail over us, there is no quarter to be expected by any; that even thoſe who ſhall have ſer<g ref="char:EOLhyphen"/>ved them moſt faithfully, by being unfaithful to their Country, cannot look for better Treatment than what they will have highly deſerved.</p>
+            <pb n="18" facs="tcp:100735:11"/>
+            <p>That it is the height of Phrenſy and Madneſs, for the gratifying an angry, or ſerving a covetous Paſſion; for the reaking our Spleen againſt any we diſlike at the Helm, or for the promoting a private miſtaken Intereſt of our own, to contribute to the ſinking of that Veſſel on which we our ſelves are embarqued, and muſt with it go down to the Bottom.</p>
+            <p>And as to the other, Union in Religious Affairs; I would, in the Spirit of Meekneſs, deſire ſuch as ſcruple, fixed and conſtant Communion with our Church, for a time calmly to lay aſide their Prejudices, and to ſuppoſe that it is poſ<g ref="char:EOLhyphen"/>ſible for them to have miſtaken, or been miſled; and therefore to reſolve to examine Matters carefully them<g ref="char:EOLhyphen"/>ſelves, not to take Things upon truſt, or think it a ſuffi<g ref="char:EOLhyphen"/>cient Reaſon for their Separation from us, that they have been educated another way.</p>
+            <p>Let them impartially conſider, Whether the eſtabliſhed Church be not the only Communion in which there is any likelihood, or indeed poſſibility, for us generally to unite againſt the common Enemy: Whether ſhe did not appear to be the only Bulwark againſt Popery in the late times of Danger and Tryal: Whether her Members did not bravely defend the Proteſtant Cauſe, when ſome that that had reflected upon them, as Popiſhly affected, did not venture to appear publickly in vindication of it: Whether they did not boldly oppoſe the Methods that were then uſed to introduce Popery, while the others did too eaſily comply with them.</p>
+            <p>Let them conſider, Whether there be any Dangers they can run by joyning with this Church, which can balance that apparent one, which the whole Proteſtant Intereſt is in, by their Diviſion from her.</p>
+            <p>Let them examin her as nicely as they pleaſe; let them bring her to the Teſt, ſhe refuſes not, ſhe has no Reaſon
+<pb n="19" facs="tcp:100735:11"/>to be afraid of it, ſhe can bear the Teſt of the Text: Let them try whether ſhe be of God, or not; Let them examine her by his Word, and ſee if ſhe wants any thing to make her a true Church; or abounds with any Thing that may make her a corrupt one: Let them try if ſhe has not Biſhops and Paſtors duly commiſſion'd for their reſpective Offices; if the whole Doctrine of Chriſtianity be not profeſs'd and taught in her, if the Sacraments of Chriſt's Inſtitution be not adminiſtred and received, and if ſhe have not a publick Worſhip for us to offer up our joint Homage and Prayers to God in.</p>
+            <p>Let them try whether ſhe ſuffers thoſe that Miniſter in Holy Things to be <hi>Maſters of Mens Faith</hi> and Conſciences, or to exerciſe any Superiority more than <hi>the Holy Ghoſt, who has made them Overſeers,</hi> has committed to them; whether ſhe allows them to deprive their Flocks of the ſincere Milk of the Word, and to feed them with lying Legends inſtead of it; whether ſhe does not require them <hi>to preach the Goſpel, to be inſtant in ſeaſon, and out of ſeaſon, and to do the work of Evan<g ref="char:EOLhyphen"/>geliſts, that they make full proof of their Miniſtry.</hi>
+            </p>
+            <p>Let them try whether ſhe corrupts her Faith by receiving humane Traditions into it, or Articles deſtructive of true Piety; whether ſhe teaches any Doctrines that may encou<g ref="char:EOLhyphen"/>rage Men to ſin, in hopes of pardon upon eaſie Terms, or to defer their Repentance in preſent, in proſpect of any after-Game; or any but ſuch as lay the moſt forcible Obligations upon all <hi>to live ſoberly, righteouſly, and godly in the preſent World.</hi>
+            </p>
+            <p>Let them try whether ſhe adds to, or diminiſhes from Chriſt's Inſtitutions; whether ſhe makes any thing to be a Sacrament which he has not made ſo, or mutilates and halves any that he has.</p>
+            <p>Let them try whether ſhe veils her Worſhip in a ſtrange Tongue, which the Ignorant cannot ſay <hi>Amen</hi> to; whether ſhe choaks it with Ceremony and Shew, or makes it conſiſt
+<pb n="20" facs="tcp:100735:12"/>in external frivolous Obſervances, and not in weighty ſub<g ref="char:EOLhyphen"/>ſtantial Acts of Devotion.</p>
+            <p>Let them try whether ſhe divides her Service betwixt God and the Creature, and does not confine it to him alone to whom it is due.</p>
+            <p>In ſhort, let them try whether there be any Term of Com<g ref="char:EOLhyphen"/>munion which ſhe impoſes upon her Members, either as to Belief or Practice, which can be proved to be ſinful by the Scriptures; and if they can find nothing enjoin'd by her which can make it a ſin to communicate with her, let them examine whether it be not a ſin to divide from her?</p>
+            <p>Theſe things let them examine with that impartiality and ſincerity, that becomes Men that are truly conſcientious and afraid of offending God; (they that are ſuch will be as fear<g ref="char:EOLhyphen"/>ful of ſinning on one hand as on the other) and then we may hope that we may go up <hi>together to the Houſe of God, and with one heart, and one mouth, glorifie him in the great Congregation.</hi>
+            </p>
+            <p>But after all, if any cannot ſatisfie all their Scruples, at leaſt let them unite as far as they can, <hi>whereunto they have at<g ref="char:EOLhyphen"/>tained, let them walk by the ſame Rule</hi> with us, <hi>and mind the ſame things;</hi> and for thoſe Particulars wherein they ſhall be differently minded, let them maintain a Spirit of Chriſtian Charity towards us, not cenſuring us, not endeavouring to poſſeſs others with their Scruples, or to harden themſelves in them, but diſpoſing themſelves to receive and ſubmit to a Conviction when it ſhall be offered; and may God, in his due time, <hi>reveal even thoſe things unto them.</hi>
+            </p>
+            <p>I am ſure this which I have been now preſſing upon them, is no more than what the Proteſtant Intereſt, not only in this Kingdom but all over <hi>Europe,</hi> calls for from them.</p>
+            <p>As for us who have the happineſs to be Members of this Church, let us walk inoffenſively and charitably <hi>towards thoſe that are yet without,</hi> pitying and praying for them, bear<g ref="char:EOLhyphen"/>ing with, condeſcending as far as we may to their Infir<g ref="char:EOLhyphen"/>mities,
+<pb n="21" facs="tcp:100735:12"/>and <hi>endeavouring to reſtore them in the Spirit of Meek<g ref="char:EOLhyphen"/>neſs.</hi>
+            </p>
+            <p>
+               <hi>Let all bitterneſs, and clamour, and evil ſpeaking, be far from us:</hi> Let us labour to work upon their Affections by all In<g ref="char:EOLhyphen"/>ſtances of Love and Kindneſs, and upon their Underſtandings by good Reaſon and Argument.</p>
+            <p>Let all of us conſider that we are Brethren, have one God for our Father, own one Lord Jeſus Chriſt, profeſs the ſame Reform'd Religion as to ſubſtance, why then ſhould circum<g ref="char:EOLhyphen"/>ſtances hinder us but that we unite together for our com<g ref="char:EOLhyphen"/>mon defence againſt our common Enemies?</p>
+            <p>But if we would effectually ſecure our ſelves againſt them, we muſt further engage God on our ſide: He has frequently delivered, and hitherto preſerved us from them; but how ſhould we expect he ſhould go on to do ſo, unleſs we live like a People ſaved by the Lord, and in ſome meaſure an<g ref="char:EOLhyphen"/>ſwer the Ends for which he has ſpared us.</p>
+            <p>He has wonderfully ſecured to us a Reform'd Church and Religion, but ſurely he thereby calls upon us to adorn that Holy Religion with reform'd Lives; A Religion free from thoſe Corruptions in Doctrine and Worſhip which that of <hi>Rome</hi> labours under, but certainly he with good reaſon ex<g ref="char:EOLhyphen"/>pects that we alſo ſhould be free from their Corruptions in Life and Manners; A Church pure in all her Adminiſtra<g ref="char:EOLhyphen"/>tions, but ſure at the ſame time he requires us to be <hi>pure and holy in all manner of Converſation.</hi>
+            </p>
+            <p>Labour we then after Peace and Holineſs, after Union with one another, by Love and Charity, and with our God, by Repentance and Newneſs of Life.</p>
+            <p>Let there be no other Strife among us, but who ſhall be moſt zealous in promoting the Glory of God, and the Publick Good: <hi>Let us conſider one another to provoke unto Love, and unto good Works, not forſuking the aſſembling of our ſelves together, but endeavouring to keep the <g ref="char:V">Ʋ</g>nity of the Spirit in the bond of Peace.</hi>
+            </p>
+            <pb n="22" facs="tcp:100735:13"/>
+            <p>And <hi>may the God of Patience and Conſolation grant us to be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ike minded, according to Chriſt Jeſus, may his Peace rule in our hearts,</hi> conquering and ſubduing all Malice and Envy, all Prejudice and Partiality, all private Intereſt and corrupt De<g ref="char:EOLhyphen"/>ſigns, and whatever may hinder us from godly Union and Concord; inclining us to <hi>be kind and tender-hearted one towards another,</hi> and diſpoſing us to lay aſide all Diſputes among our ſelves about leſſer Matters, and <hi>to contend earneſtly for the Faith that was once delivered to the Saints.</hi>
+            </p>
+            <p>
+               <hi>If thus our Jeruſalem were as a City that is at unity in it ſelf, if the Tribes went up together to worſhip to the Houſe of the Lord,</hi> if we heartily join'd in praying and labouring for the Peace thereof, ſhe would be <hi>terrible to her Enemies as an Army with Banners.</hi>
+            </p>
+            <p>If there were among us a Spirit of Reformation, of Sin<g ref="char:EOLhyphen"/>cerity and Honeſty, of true Holineſs, and the <hi>Fear of the Lord,</hi> we might hope to invite him to <hi>dwell among us, and to rejoice over us to do us good.</hi>
+            </p>
+            <p>We might then reaſonably expect that he will go on to defend us <hi>from the deſtruction that waſteth at noon-day,</hi> and <hi>from the evil that walketh in darkneſs,</hi> from all the open Attempts and ſecret Plots of our Enemies; that he will continue to us the Bleſſings of our great Deliverance, and preſerve that ſacred Life in which they are ſo much concern'd; that he will bleſs him, and us in him, with a long and proſperous Reign over us, till he ſhall have ſo <hi>eſtabliſh'd the thing he hath wrought for us</hi> by him, that the happineſs of our preſent ex<g ref="char:EOLhyphen"/>cellent Conſtitution in Church and State, may be tranſmit<g ref="char:EOLhyphen"/>ted to our Childrens children, and all the Generations that are yet for to come.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100735:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
